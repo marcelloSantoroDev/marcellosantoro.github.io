@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(0, 5, 22);
+    font-family:'Calistoga , cursive';
+    text-align: center;
+    font-size: 70px;
+    font
+}
+
+body{
+    background-color: rgb(237, 243, 157);
+
+}
+
+#Poema {
+    color: rgb(0, 5, 22);
+}
+#TituloPoema {
+    color: rgb(0, 5, 22);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Fotos{
+    border-radius: 100%;
+}
+
+.Poesia{
+    font-family: 'Rye' , cursive;
+}
+
+.center {
+    display: block;
+    margin : auto;
+    width: 50%;
+    border-radius: 100%;
+    width: 300px;
+  }
